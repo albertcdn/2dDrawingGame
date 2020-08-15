@@ -1,0 +1,1 @@
+To start run command 'npm server' without quotes on bash
